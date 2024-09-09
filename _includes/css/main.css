@@ -482,3 +482,10 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.custom-profile-pic {
+    width: 50%; /* Adjust as needed */
+    border-radius: 50%; /* Circular corners */
+    display: block; /* Ensure proper scaling */
+    margin: 0 auto; /* Center horizontally */
+  }
