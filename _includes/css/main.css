@@ -485,7 +485,7 @@ footer .footer-below {
 
 .custom-profile-pic {
     width: 50%; /* Adjust as needed */
-    border-radius: 50%; /* Circular corners */
+    border-radius: 30%; /* Circular corners */
     display: block; /* Ensure proper scaling */
     margin: 0 auto; /* Center horizontally */
   }
