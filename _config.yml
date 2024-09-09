@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Evgeny Kuznetsov
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,15 +40,18 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: 
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: 
+  - title: linkedin
+    url: https://www.linkedin.com/in/evgeny-kuznetsov-b479ba114/
+
 
 # Postal address (add as many lines as necessary)
 address:
