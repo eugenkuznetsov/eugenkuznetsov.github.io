@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+title: Evgeny Kuznetsov
+email: e.kuznetsov@freeuni.edu.ge
+url: https://rmi.tsu.ge/eng/staffdep.htm#mathl
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+keywords: "algebra-in-logic, category-theory-in-logic, topology-in-logic"
+skills: "Mathematician - Back End Developer"
+meta_author: Evgeny Kuznetsov
 
 # Google webmaster tools
 google_verify:
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+# disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -38,22 +38,22 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 2, Merab Aleksidze II Lane
+  - line: Tbilisi 0193, Georgia
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
