@@ -59,7 +59,7 @@ address:
   - line: Tbilisi 0193, Georgia
 
 # Credits content
-credits: 'Theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Theme by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
