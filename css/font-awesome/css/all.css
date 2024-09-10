@@ -2224,7 +2224,7 @@ readers do not read off random characters that represent icons */
 .fa-long-arrow-alt-down::before {
   content: "\f309"; }
 
-.fa-download::before {
+.fa-button::before {
   content: "\f019"; }
 
 .fa-dragon::before {
